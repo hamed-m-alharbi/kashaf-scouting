@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Kashaf logo" width="360">
+  <img src="logo.png" alt="Kashaf logo" width="360">
 </p>
 
 <h3 align="center">Who is the best player I can afford?</h3>
@@ -21,16 +21,16 @@ Kashaf compares each player's **performance** with his **market value** and rank
 
 | Search Players | Similar Players |
 |---|---|
-| ![Search Players](assets/search-players.jpg) | ![Similar Players](assets/similar-players.jpg) |
+| ![Search Players](search-players.jpg) | ![Similar Players](similar-players.jpg) |
 | Players ranked by the **Undervalue Index**: how well they perform compared with what they cost, within their position. Filter by league, age, budget, minutes and contract. | Pick a player and find the closest profiles in the same position, with a similarity score, a radar and a side-by-side comparison. |
 
 **Player Profile:** a radar of key metrics, stats coloured by percentile, market value, health and discipline, injury history, and season-by-season history.
 
-![Player Profile](assets/player-profile.jpg)
+![Player Profile](player-profile.jpg)
 
 ## How it works
 
-![Architecture](assets/architecture.png)
+![Architecture](architecture.png)
 
 Kashaf runs as a full **ELT pipeline on Google Cloud**:
 
@@ -57,7 +57,7 @@ Airflow runs the whole pipeline every week, and Terraform builds the cloud resou
 ## Roadmap
 
 <p align="center">
-  <img src="assets/roadmap.jpg" alt="Kashaf roadmap" width="520">
+  <img src="roadmap.jpg" alt="Kashaf roadmap" width="520">
 </p>
 
 - ✅ **Phase 1:** built and shipped as our capstone at the SDA Data Engineering Bootcamp.
