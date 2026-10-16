@@ -70,7 +70,7 @@ Kashaf is an idea by **Hamed Alharbi**, built with his team during the Saudi Dig
 
 | Member | Role | Links |
 |---|---|---|
-| **Hamed Alharbi** | Project Lead | [LinkedIn](https://www.linkedin.com/in/hamed-al-harbi-741604374/) · [GitHub](https://github.com/hmonaweribrahim-crypto) |
+| **Hamed Alharbi** | Project Lead | [LinkedIn](https://www.linkedin.com/in/hamed-al-harbi-741604374/) · [GitHub](https://github.com/hamed-m-alharbi) |
 | **Fahad Alghamdi** | Team Member | [LinkedIn](https://www.linkedin.com/in/fahadghamdi/) · [GitHub](https://github.com/fahadrmd) |
 | **Adel Albqmai** | Team Member | [LinkedIn](https://www.linkedin.com/in/adel-nawar-532537197/) · [GitHub](https://github.com/adelnoor1997-arch) |
 | **Yara Alshammari** | Team Member | [LinkedIn](https://www.linkedin.com/in/yara-alshammari-aa9411254/) · [GitHub](https://github.com/Yara-l73) |
